@@ -108,5 +108,29 @@ h1{
   font-size: 16px;
   font-weight: 700;
   color: #1F2937;
-  text-align: right;  /* pushes Thor to the right */
+  text-align: right;
+  
+}
+.second-footer{
+  display: flex;
+  justify-content: center;
+  padding: 70px;
+}
+.left-call{
+  padding: 10px;
+  
+}
+
+.right-call{
+  padding: 10px;
+}
+
+.sf{
+  display: flex;
+  background-color: #6767f2;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 30px;
 }
